@@ -1,0 +1,47 @@
+[
+  {
+    "year": 2024,
+    "results": [
+      {
+        "category": "Best Picture",
+        "winner": { "title": "Oppenheimer" },
+        "nominees": []
+      },
+      {
+        "category": "Best Director",
+        "winner": { "title": "Christopher Nolan – Oppenheimer" },
+        "nominees": []
+      },
+      {
+        "category": "Best Actor",
+        "winner": { "title": "Cillian Murphy – Oppenheimer" },
+        "nominees": []
+      },
+      {
+        "category": "Best Actress",
+        "winner": { "title": "Emma Stone – Poor Things" },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actor",
+        "winner": { "title": "Robert Downey Jr. – Oppenheimer" },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actress",
+        "winner": { "title": "Da'Vine Joy Randolph – The Holdovers" },
+        "nominees": []
+      },
+      {
+        "category": "Best Original Screenplay",
+        "winner": { "title": "Anatomy of a Fall" },
+        "nominees": []
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "winner": { "title": "American Fiction" },
+        "nominees": []
+      }
+    ]
+  }
+]

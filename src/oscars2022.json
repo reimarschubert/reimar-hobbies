@@ -1,0 +1,47 @@
+[
+  {
+    "year": 2022,
+    "results": [
+      {
+        "category": "Best Picture",
+        "winner": { "title": "CODA" },
+        "nominees": []
+      },
+      {
+        "category": "Best Director",
+        "winner": { "title": "Jane Campion – The Power of the Dog" },
+        "nominees": []
+      },
+      {
+        "category": "Best Actor",
+        "winner": { "title": "Will Smith – King Richard" },
+        "nominees": []
+      },
+      {
+        "category": "Best Actress",
+        "winner": { "title": "Jessica Chastain – The Eyes of Tammy Faye" },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actor",
+        "winner": { "title": "Troy Kotsur – CODA" },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actress",
+        "winner": { "title": "Ariana DeBose – West Side Story" },
+        "nominees": []
+      },
+      {
+        "category": "Best Original Screenplay",
+        "winner": { "title": "Belfast" },
+        "nominees": []
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "winner": { "title": "CODA" },
+        "nominees": []
+      }
+    ]
+  }
+]

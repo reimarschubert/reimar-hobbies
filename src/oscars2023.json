@@ -1,0 +1,55 @@
+[
+  {
+    "year": 2023,
+    "results": [
+      {
+        "category": "Best Picture",
+        "winner": { "title": "Everything Everywhere All at Once" },
+        "nominees": []
+      },
+      {
+        "category": "Best Director",
+        "winner": {
+          "title": "Daniel Kwan & Daniel Scheinert – Everything Everywhere All at Once"
+        },
+        "nominees": []
+      },
+      {
+        "category": "Best Actor",
+        "winner": { "title": "Brendan Fraser – The Whale" },
+        "nominees": []
+      },
+      {
+        "category": "Best Actress",
+        "winner": {
+          "title": "Michelle Yeoh – Everything Everywhere All at Once"
+        },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actor",
+        "winner": {
+          "title": "Ke Huy Quan – Everything Everywhere All at Once"
+        },
+        "nominees": []
+      },
+      {
+        "category": "Best Supporting Actress",
+        "winner": {
+          "title": "Jamie Lee Curtis – Everything Everywhere All at Once"
+        },
+        "nominees": []
+      },
+      {
+        "category": "Best Original Screenplay",
+        "winner": { "title": "Everything Everywhere All at Once" },
+        "nominees": []
+      },
+      {
+        "category": "Best Adapted Screenplay",
+        "winner": { "title": "Women Talking" },
+        "nominees": []
+      }
+    ]
+  }
+]
